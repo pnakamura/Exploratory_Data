@@ -22,3 +22,5 @@ To run this script you need to to the following:
 •Extract the data into the your directory;
 
 •Run the scripts
+
+Obs: weekdays are in portuguese (polt2.png)
