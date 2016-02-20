@@ -23,4 +23,4 @@ To run this script you need to to the following:
 
 •Run the scripts
 
-Obs: weekdays are in portuguese (polt2.png)
+Obs: weekdays are in portuguese (plo2.png. plot3.png and plot4.png)
